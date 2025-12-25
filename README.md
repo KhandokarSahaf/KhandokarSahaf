@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on **React.js Projects**
 - 🌱 I’m learning **Next.js, Tailwind CSS, and TypeScript**
 - 💬 Ask me about **JavaScript, Git, Linux, Web Dev**
-- 📫 How to reach me: [khandokarsahaf3@gmail.com](mailto:khandokarsahaf3@gmail.com)
+- 📫 How to reach me: [khandokarsahaf3@gmail.com](mailto:khandokarsahaf3@outlook.com)
 - ⚡ Fun fact: I love tweaking Linux more than my sleep 😄
 
 ---
